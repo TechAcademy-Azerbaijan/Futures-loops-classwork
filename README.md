@@ -215,7 +215,7 @@ Tək və cüt yerdə olan rəqəmlərin cəmlərinin hasilini verin.
 
 ---
 
-## Task 10: 
+## Task 8: 
 
 ### Bütün təklər
 Natural n ədədi verilmişdir. n-dən kiçik olan bütün natural tək ədədləri artma ardıcıllığında çap edin.
